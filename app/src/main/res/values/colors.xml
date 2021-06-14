@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="profile">#FF018786</color>
+    <color name="black">#000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="disabled">#C2B3B3</color>
+    <color name="red">#F11414</color>
+    <color name="yellow">#FFC300</color>
+    <color name="all">#F8F5F5</color>
+    <color name="home">#EC9B9B</color>
+    <color name="light_green">#3DD45B</color>
+    <color name="light_grey">#F2F3F2</color>
+    <color name="green_500">#4CAF50</color>
+    <color name="library">#864CAF50</color>
+    <color name="light_gray">#c7c5c5</color>
+    <color name="search">#51329F</color>
+    <color name="light_black">#2A2A2A</color>
+    <color name="light_black_2">#404040</color>
+    <color name="light_black_3">#545454</color>
+    <color name="dark_blue">#122037</color>
+    <color name="light_blue">#244774</color>
+    <color name="color_1">#897295</color>
+    <color name="color_2">#610B0A</color>
+    <color name="color_3">#519A46</color>
+    <color name="color_4">#D65A2C</color>
+    <color name="color_5">#ED6968</color>
+    <color name="color_6">#296C8B</color>
+    <color name="brown">#A52A2A</color>
+    <color name="toolbar">#1F1F1F</color>
+</resources>
